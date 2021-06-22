@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm IkkehMan</h1>
-<h3 align="center">the guy doing the coding because i love it</h3>
 
 ![](https://raw.githubusercontent.com/ikkehman/ikkehman/main/banner-min.png)
 
