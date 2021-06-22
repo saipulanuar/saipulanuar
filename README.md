@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm IkkehMan</h1>
 <h3 align="center">the guy doing the coding because i love it</h3>
 
+![](https://raw.githubusercontent.com/ikkehman/ikkehman/main/banner-min.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikkehman&label=Profile%20views&color=0e75b6&style=flat" alt="ikkehman" /> </p>
 
 - 🔭 I’m currently working on **my room**
