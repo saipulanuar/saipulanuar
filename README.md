@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm IkkehMan</h1>
-
-![](https://raw.githubusercontent.com/ikkehman/ikkehman/main/banner3-min.png)
+![](https://raw.githubusercontent.com/ikkehman/ikkehman/main/banner4-min.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikkehman&label=Profile%20views&color=0e75b6&style=flat" alt="ikkehman" /> </p>
 
