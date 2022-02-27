@@ -1,6 +1,3 @@
 {
-Lagi Nyari Script Bot Ku Ya:v
-Nih Link Nya Di Bawah
-
-Gak Subscribe Gak Work Tod...!!!
+"Lagi Nyari Script Bot Ku Ya:v\nNih Link Nya Di Bawah\nGak Subscribe Gak Work Tod...!!!"
 }
